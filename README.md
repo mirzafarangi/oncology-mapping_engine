@@ -1,4 +1,4 @@
-# MIMIC-IV Oncology Pathway Mapping Engine
+# Oncology Pathway Mapping Engine (Patient Digital Twin on MIMIC-IV)
 
 A clinical pathway analysis platform that analyzes real oncology patient data from the MIMIC-IV dataset using Google BigQuery.
 
