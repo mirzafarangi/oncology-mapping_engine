@@ -31,3 +31,6 @@ Developed transformer-based model for TNM classification extraction. Achieved 94
 ### 2025-12-02 - Optimize large-scale oncology data processing pipeline
 Refactored ETL workflow with parallel processing. Reduced processing time for 1M+ patient records by 60%.
 
+### 2025-12-03 - Improve accuracy of ICD-O-3 to ICD-10 cancer code mapping
+Enhanced mapping algorithm with context-aware disambiguation. Validated against gold standard oncology datasets.
+
