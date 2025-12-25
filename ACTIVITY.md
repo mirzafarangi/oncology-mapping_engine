@@ -97,3 +97,6 @@ Refactored ETL workflow with parallel processing. Reduced processing time for 1M
 ### 2025-12-25 - Improve accuracy of ICD-O-3 to ICD-10 cancer code mapping
 Enhanced mapping algorithm with context-aware disambiguation. Validated against gold standard oncology datasets.
 
+### 2025-12-26 - Add biomarker data integration and standardization module
+Implemented ontology-based mapping for heterogeneous biomarker data. Enhanced interoperability with standard terminologies.
+
