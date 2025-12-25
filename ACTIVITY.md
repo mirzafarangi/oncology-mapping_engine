@@ -94,3 +94,6 @@ Implemented ontology-based mapping for heterogeneous biomarker data. Enhanced in
 ### 2025-12-23 - Optimize large-scale oncology data processing pipeline
 Refactored ETL workflow with parallel processing. Reduced processing time for 1M+ patient records by 60%.
 
+### 2025-12-25 - Improve accuracy of ICD-O-3 to ICD-10 cancer code mapping
+Enhanced mapping algorithm with context-aware disambiguation. Validated against gold standard oncology datasets.
+
