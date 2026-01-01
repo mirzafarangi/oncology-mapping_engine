@@ -121,3 +121,6 @@ Implemented ontology-based mapping for heterogeneous biomarker data. Enhanced in
 ### 2025-12-31 - Improve accuracy of ICD-O-3 to ICD-10 cancer code mapping
 Enhanced mapping algorithm with context-aware disambiguation. Validated against gold standard oncology datasets.
 
+### 2026-01-01 - Add biomarker data integration and standardization module
+Implemented ontology-based mapping for heterogeneous biomarker data. Enhanced interoperability with standard terminologies.
+
